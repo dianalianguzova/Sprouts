@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprouts", "Sprouts\Sprouts.csproj", "{260CA2E9-FD74-47B6-8EDE-3C824A71589F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSprouts", "UnitTestSprouts\UnitTestSprouts.csproj", "{0E42803B-8506-4A50-AB38-879FD684FA8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260CA2E9-FD74-47B6-8EDE-3C824A71589F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260CA2E9-FD74-47B6-8EDE-3C824A71589F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260CA2E9-FD74-47B6-8EDE-3C824A71589F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260CA2E9-FD74-47B6-8EDE-3C824A71589F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E42803B-8506-4A50-AB38-879FD684FA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E42803B-8506-4A50-AB38-879FD684FA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E42803B-8506-4A50-AB38-879FD684FA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E42803B-8506-4A50-AB38-879FD684FA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A9B47FC-769A-4709-8F53-F9BC39CE70DC}
+	EndGlobalSection
+EndGlobal

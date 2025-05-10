@@ -1,0 +1,70 @@
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\bin\Debug\Sprouts.exe.config
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\bin\Debug\Sprouts.exe
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\bin\Debug\Sprouts.pdb
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.AssemblyReference.cache
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\SproutsGame.Sprouts.resources
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.Properties.Resources.resources
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.GenerateResource.cache
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.CoreCompileInputs.cache
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.exe
+C:\Users\aaaa0\Desktop\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.pdb
+F:\Курсовая работа\Sprouts\Sprouts\bin\Debug\Sprouts.exe.config
+F:\Курсовая работа\Sprouts\Sprouts\bin\Debug\Sprouts.exe
+F:\Курсовая работа\Sprouts\Sprouts\bin\Debug\Sprouts.pdb
+F:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.AssemblyReference.cache
+F:\Курсовая работа\Sprouts\Sprouts\obj\Debug\SproutsGame.Sprouts.resources
+F:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.Properties.Resources.resources
+F:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.GenerateResource.cache
+F:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.CoreCompileInputs.cache
+F:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.exe
+F:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.pdb
+E:\Курсовая работа\Sprouts\Sprouts\bin\Debug\Sprouts.exe.config
+E:\Курсовая работа\Sprouts\Sprouts\bin\Debug\Sprouts.exe
+E:\Курсовая работа\Sprouts\Sprouts\bin\Debug\Sprouts.pdb
+E:\Курсовая работа\Sprouts\Sprouts\obj\Debug\SproutsGame.Sprouts.resources
+E:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.Properties.Resources.resources
+E:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.GenerateResource.cache
+E:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.CoreCompileInputs.cache
+E:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.exe
+E:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.pdb
+D:\Курсовая работа\Sprouts\Sprouts\bin\Debug\Sprouts.exe.config
+D:\Курсовая работа\Sprouts\Sprouts\bin\Debug\Sprouts.exe
+D:\Курсовая работа\Sprouts\Sprouts\bin\Debug\Sprouts.pdb
+D:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.AssemblyReference.cache
+D:\Курсовая работа\Sprouts\Sprouts\obj\Debug\SproutsGame.Sprouts.resources
+D:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.Properties.Resources.resources
+D:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.GenerateResource.cache
+D:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.CoreCompileInputs.cache
+D:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.exe
+D:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.pdb
+E:\Курсовая работа\Sprouts\Sprouts\obj\Debug\Sprouts.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sprouts\Sprouts\bin\Debug\Sprouts.exe.config
+C:\Users\User\Desktop\Sprouts\Sprouts\bin\Debug\Sprouts.exe
+C:\Users\User\Desktop\Sprouts\Sprouts\bin\Debug\Sprouts.pdb
+C:\Users\User\Desktop\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sprouts\Sprouts\obj\Debug\SproutsGame.Sprouts.resources
+C:\Users\User\Desktop\Sprouts\Sprouts\obj\Debug\Sprouts.Properties.Resources.resources
+C:\Users\User\Desktop\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sprouts\Sprouts\obj\Debug\Sprouts.exe
+C:\Users\User\Desktop\Sprouts\Sprouts\obj\Debug\Sprouts.pdb
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\bin\Debug\Sprouts.exe.config
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\bin\Debug\Sprouts.exe
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\bin\Debug\Sprouts.pdb
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.AssemblyReference.cache
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\SproutsGame.Sprouts.resources
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.Properties.Resources.resources
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.GenerateResource.cache
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.CoreCompileInputs.cache
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.exe
+C:\Учеба\Курс 2\Курсовая Ростки\Sprouts\Sprouts\obj\Debug\Sprouts.pdb
+C:\Учеба\Sprouts\Sprouts\Sprouts\bin\Debug\Sprouts.exe.config
+C:\Учеба\Sprouts\Sprouts\Sprouts\bin\Debug\Sprouts.exe
+C:\Учеба\Sprouts\Sprouts\Sprouts\bin\Debug\Sprouts.pdb
+C:\Учеба\Sprouts\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.AssemblyReference.cache
+C:\Учеба\Sprouts\Sprouts\Sprouts\obj\Debug\SproutsGame.Sprouts.resources
+C:\Учеба\Sprouts\Sprouts\Sprouts\obj\Debug\Sprouts.Properties.Resources.resources
+C:\Учеба\Sprouts\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.GenerateResource.cache
+C:\Учеба\Sprouts\Sprouts\Sprouts\obj\Debug\Sprouts.csproj.CoreCompileInputs.cache
+C:\Учеба\Sprouts\Sprouts\Sprouts\obj\Debug\Sprouts.exe
+C:\Учеба\Sprouts\Sprouts\Sprouts\obj\Debug\Sprouts.pdb

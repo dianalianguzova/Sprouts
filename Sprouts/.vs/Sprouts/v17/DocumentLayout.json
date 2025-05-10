@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E42803B-8506-4A50-AB38-879FD684FA8A}|UnitTestSprouts\\UnitTestSprouts.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\sprouts\\sprouts\\unittestsprouts\\unittestsprouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E42803B-8506-4A50-AB38-879FD684FA8A}|UnitTestSprouts\\UnitTestSprouts.csproj|solutionrelative:unittestsprouts\\unittestsprouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\sprouts\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|solutionrelative:sprouts\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\sprouts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|solutionrelative:sprouts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\sprouts\\vert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|solutionrelative:sprouts\\vert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\sprouts\\sproutsalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|solutionrelative:sprouts\\sproutsalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\sprouts\\sprouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|solutionrelative:sprouts\\sprouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\sprouts\\sprouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|solutionrelative:sprouts\\sprouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\sprouts\\commonvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260CA2E9-FD74-47B6-8EDE-3C824A71589F}|Sprouts\\Sprouts.csproj|solutionrelative:sprouts\\commonvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTestSprouts.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\UnitTestSprouts\\UnitTestSprouts.cs",
+              "RelativeDocumentMoniker": "UnitTestSprouts\\UnitTestSprouts.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\UnitTestSprouts\\UnitTestSprouts.cs",
+              "RelativeToolTip": "UnitTestSprouts\\UnitTestSprouts.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwIEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:55:13.678Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonVariable.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\CommonVariable.cs",
+              "RelativeDocumentMoniker": "Sprouts\\CommonVariable.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\CommonVariable.cs",
+              "RelativeToolTip": "Sprouts\\CommonVariable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:38:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sprouts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\Sprouts.cs",
+              "RelativeDocumentMoniker": "Sprouts\\Sprouts.cs",
+              "ToolTip": "C:\\Users\\aaaa0\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u043E\u0441\u0442\u043A\u0438\\Sprouts\\Sprouts\\Sprouts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\Users\\aaaa0\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u043E\u0441\u0442\u043A\u0438\\Sprouts\\Sprouts\\Sprouts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:17:44.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sprouts.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\Sprouts.cs",
+              "RelativeDocumentMoniker": "Sprouts\\Sprouts.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\Sprouts.cs",
+              "RelativeToolTip": "Sprouts\\Sprouts.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:51:14.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SproutsAlgorithms.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\SproutsAlgorithms.cs",
+              "RelativeDocumentMoniker": "Sprouts\\SproutsAlgorithms.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\SproutsAlgorithms.cs",
+              "RelativeToolTip": "Sprouts\\SproutsAlgorithms.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA2wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:09:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vert.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\Vert.cs",
+              "RelativeDocumentMoniker": "Sprouts\\Vert.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\Vert.cs",
+              "RelativeToolTip": "Sprouts\\Vert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:51:08.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\Computer.cs",
+              "RelativeDocumentMoniker": "Sprouts\\Computer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\Computer.cs",
+              "RelativeToolTip": "Sprouts\\Computer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:58:19.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\Player.cs",
+              "RelativeDocumentMoniker": "Sprouts\\Player.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\Sprouts\\Sprouts\\Sprouts\\Player.cs",
+              "RelativeToolTip": "Sprouts\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:51:03.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
